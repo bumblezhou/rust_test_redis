@@ -26,3 +26,6 @@ cargo run publisher test_channel hello
 cargo run publisher test_channel 'how are you?'
 cargo run publisher test_channel bye
 ```
+
+## Reference:
+1. https://docs.rs/redis/latest/redis/
